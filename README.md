@@ -1,2 +1,6 @@
 # learn-git
-simple learn git repo
+
+simple repo to learn git
+
+- git is cool
+- my name is matt
